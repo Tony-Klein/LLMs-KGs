@@ -15,6 +15,7 @@
 - [Needham - Graph Algorithms](https://www.oreilly.com/library/view/graph-algorithms/9781492047674/?_gl=1*10zak0v*_ga*MjA5NDc0MTQ5Ni4xNzA1NDk0Mjk5*_ga_092EL089CH*MTcwOTYzMzgzMy4yLjEuMTcwOTYzNTc5Mi42MC4wLjA.)
 - [Scifo - Graph Data Science with Neo4j](https://www.oreilly.com/library/view/graph-data-science/9781804612743/)
 - [Stratis - What Is Generative AI?](https://www.oreilly.com/library/view/what-is-generative/9781098162665/?_gl=1*124kpzr*_ga*MjA5NDc0MTQ5Ni4xNzA1NDk0Mjk5*_ga_092EL089CH*MTcwOTYzMzgzMy4yLjEuMTcwOTYzNDAyMy4yNC4wLjA.)
+- Test
 
 
 ## Videos
