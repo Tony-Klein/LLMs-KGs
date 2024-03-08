@@ -298,7 +298,7 @@
 - [Google - Build intelligent applications with Neo4j Knowledge Graphs and Google Cloud generative AI](https://cloud.google.com/blog/topics/partners/build-intelligent-apps-with-neo4j-and-google-generative-ai?hl=en)
 - [Microsoft - What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 - [Microsoft - Evaluation and monitoring metrics for generative AI](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-metrics-built-in)
-- []()
+- [promptingguide.ai](https://www.promptingguide.ai/introduction)
 
 ## Discord
 - [Neo4j](https://discord.com/invite/neo4j)
