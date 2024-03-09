@@ -28,6 +28,8 @@
 - [AI Engineer - Pydantic is all you need: Jason Liu](https://youtu.be/yj-wSRJwrrc?feature=shared)
 - [Big Data LDN - Bridging the Gap: Integrating Knowledge Graphs and Large Language Models](https://youtu.be/qCT1a2jdpk4?si=2OWJMzXA4RHjZtVi)
 - [Big Data LDN - Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation](https://youtu.be/CEaDSOh_AoM?si=vUsOSLEJuR7tUyyQ)
+- [Coding Crashkurse - Pydantic V2 - Komplettkurs - Lerne die BESTE Library für Datenvalidierung und Parsing
+](https://youtu.be/RSW4EC3146w?si=wNs3FpK639ob09xx)
 - [DataCamp - Unleashing the Synergy of LLMs and Knowledge Graphs](https://www.youtube.com/live/cIvDlmq24R8?si=UdAXtVSYcRDc04wm)
 - [Denny Vrandečić - The Future of Knowledge Graphs in a World of Large Language Models](https://youtu.be/WqYBx2gB6vA?si=Pm8fj54QOVmfZcSA)
 - [IBM Technology](https://www.youtube.com/@IBMTechnology)
