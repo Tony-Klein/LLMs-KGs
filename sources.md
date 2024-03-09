@@ -109,6 +109,7 @@
 - [John Tan Chong Min - Large Language Models and Knowledge Graphs: Merging Flexibility and Structure](https://youtu.be/1RZ5yIyz31c?si=dG45XYwyIfFHSZBK)
 - [pixegami - Pydantic Tutorial • Solving Python's Biggest Problem](https://youtu.be/XIdQ6gO3Anc?si=IH6dUArP9DcZHOaS)
 - [Rudy's AI Corner - Fusing Knowledge Graphs and Large Language Models](https://youtu.be/RBKHLt3n9rM?si=Znz9voX74q2tOzGn)
+- [SupportVectors - Instructor LLM Prompt Framework](https://www.youtube.com/live/EGx33OSpcrM?si=BWTsORQnvzAAvlUD)
 - [TechViz - The Data Science Guy - GraphGPT: Transform Text into Knowledge Graphs with GPT-3](https://youtu.be/mYCIRcobukI?si=dh2aKrYH9KehD419)
 - [The Knowledge Graph Conference - Masterclass: Knowledge Graphs & Massive Language Models — The Future of AI, RelationalAI | KGC 2023](https://youtu.be/vUuB6RNUGx0?si=KD2i3wFQc9XVjDJj)
 - [The Knowledge Graph Conference - KGC 2023 Masterclass: Build a Semantic Layer in a Knowledge Graph — Stardog](https://youtu.be/FMILiljigeE?si=_3fDWiziii2lmqfD)
