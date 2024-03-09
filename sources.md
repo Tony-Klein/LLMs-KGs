@@ -30,6 +30,8 @@
 - [Big Data LDN - Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation](https://youtu.be/CEaDSOh_AoM?si=vUsOSLEJuR7tUyyQ)
 - [Coding Crashkurse - Pydantic V2 - Komplettkurs - Lerne die BESTE Library für Datenvalidierung und Parsing
 ](https://youtu.be/RSW4EC3146w?si=wNs3FpK639ob09xx)
+- [Coding Crashkurse - DocTran - Dokument Transformation mit LLMs für LangChain & VectorStores
+](https://youtu.be/ecJoiWWdTR8?si=3jZF7Xcb2cAiRl0Q)
 - [DataCamp - Unleashing the Synergy of LLMs and Knowledge Graphs](https://www.youtube.com/live/cIvDlmq24R8?si=UdAXtVSYcRDc04wm)
 - [Denny Vrandečić - The Future of Knowledge Graphs in a World of Large Language Models](https://youtu.be/WqYBx2gB6vA?si=Pm8fj54QOVmfZcSA)
 - [IBM Technology](https://www.youtube.com/@IBMTechnology)
@@ -249,6 +251,7 @@
 - [Langchain]()
     - [Text Splitters/Semantic Chunking](https://python.langchain.com/docs/modules/data_connection/document_transformers/semantic-chunker)
     - [Retreiver/Contextual Compression](https://python.langchain.com/docs/modules/data_connection/retrievers/contextual_compression)
+    - [Document transformers/Doctran](https://python.langchain.com/docs/integrations/document_transformers/doctran_extract_properties)
 - [LangSmith Hub](https://smith.langchain.com/hub)
     - [ezhil/text2cypher](https://smith.langchain.com/hub/ezhil/text2cypher)
 - [Pydantic](https://docs.pydantic.dev/latest/)
