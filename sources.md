@@ -306,6 +306,7 @@
 - [harigurumoorthi - Overview Graph Algorithms](https://harigurumoorthi.page/projects/neo4j-gds-graph-algorithm)
 - [Microsoft - What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 - [Microsoft - Evaluation and monitoring metrics for generative AI](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-metrics-built-in)
+- [Microsoft - GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 - [promptingguide.ai](https://www.promptingguide.ai/introduction)
 
 ## Discord
