@@ -123,6 +123,7 @@
 - [Neo4j - Neo4j Live: The Potential of LLMs & Knowledge Graphs through Visualization](https://www.youtube.com/live/0Iad0raE5vM?si=hPYWzIwK5QMEmNal)
 - [Neo4j - Neo4j Live: GraphGPT](https://www.youtube.com/live/As2UBg56b3o?si=-wSs96dqsSEqcPEo)
 - [Neo4j - NODES 2023 - Using LLMs to Convert Unstructured Data to Knowledge Graphs](https://youtu.be/qLdkRReMPvM?si=-rcde5mVkyiVbzbe)
+- [Neo4j - NODES 2023: Knowledge Graph-Based Chatbot](https://www.youtube.com/live/x9GNBKwiNbo?si=i_IcY7c6CrDygHAT)
 
 
 ## Blogs
