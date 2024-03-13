@@ -1,0 +1,12 @@
+# Websites
+
+- [FullStackRetrieval.com](https://fullstackretrieval.com/)
+- [Generative KI: ChatGPT & co](https://www.plattform-lernende-systeme.de/generative-ki.html)
+- [Google - Build intelligent applications with Neo4j Knowledge Graphs and Google Cloud generative AI](https://cloud.google.com/blog/topics/partners/build-intelligent-apps-with-neo4j-and-google-generative-ai?hl=en)
+- [Große KI-Sprachmodelle - Chancen und Risiken für Industrie und Behörden](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Grosse_KI_Sprachmodelle.pdf?__blob=publicationFile&v=2)
+- [harigurumoorthi - Overview Graph Algorithms](https://harigurumoorthi.page/projects/neo4j-gds-graph-algorithm)
+- [Indirect Prompt Injections - Intrinsische Schwachstelle in anwendungsintegrierten KI-Sprachmodellen](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2023/2023-249034-1032.pdf?__blob=publicationFile&v=3))
+- [Microsoft - What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
+- [Microsoft - Evaluation and monitoring metrics for generative AI](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-metrics-built-in)
+- [Microsoft - GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+- [promptingguide.ai](https://www.promptingguide.ai/introduction)
