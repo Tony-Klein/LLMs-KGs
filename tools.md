@@ -7,7 +7,8 @@
     - [Building Knowledge Graphs from Textual Data](https://jxnl.github.io/instructor/hub/knowledge_graph/)
     - [Knowledge Graphs for Complex Topics](https://jxnl.github.io/instructor/tutorials/5-knowledge-graphs/)
     - [Generators and LLM Streaming](https://jxnl.github.io/instructor/blog/2023/11/26/python-generators-and-llm-streaming/?h=stream)
-- [Langchain]()
+    - [Usage Tokens](https://jxnl.github.io/instructor/concepts/usage/)
+- [Langchain](https://python.langchain.com/docs/get_started/introduction)
     - [Text Splitters/Semantic Chunking](https://python.langchain.com/docs/modules/data_connection/document_transformers/semantic-chunker)
     - [Retreiver/Contextual Compression](https://python.langchain.com/docs/modules/data_connection/retrievers/contextual_compression)
     - [Document transformers/Doctran](https://python.langchain.com/docs/integrations/document_transformers/doctran_extract_properties)
@@ -16,6 +17,10 @@
 - [Pydantic](https://docs.pydantic.dev/latest/)
     - [Usage Errors](https://docs.pydantic.dev/latest/errors/usage_errors/)
     - [API/model_rebuild()](https://docs.pydantic.dev/latest/api/base_model/#pydantic.BaseModel.model_rebuild)
+- [OpenAI API](https://platform.openai.com/docs/api-reference)
+
+## OpenAI
+- [OpenAI Cookbook - How to stream completions](https://cookbook.openai.com/examples/how_to_stream_completions)
 
 ## Github - Informations
 - [quqxui/Awesome-LLM4IE-Papers](https://github.com/quqxui/Awesome-LLM4IE-Papers)
