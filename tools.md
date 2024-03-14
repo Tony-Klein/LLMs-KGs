@@ -6,6 +6,7 @@
     - [Entity Resolution and Visualization for Legal Documents](https://jxnl.github.io/instructor/examples/entity_resolution/)
     - [Building Knowledge Graphs from Textual Data](https://jxnl.github.io/instructor/hub/knowledge_graph/)
     - [Knowledge Graphs for Complex Topics](https://jxnl.github.io/instructor/tutorials/5-knowledge-graphs/)
+    - [Generators and LLM Streaming](https://jxnl.github.io/instructor/blog/2023/11/26/python-generators-and-llm-streaming/?h=stream)
 - [Langchain]()
     - [Text Splitters/Semantic Chunking](https://python.langchain.com/docs/modules/data_connection/document_transformers/semantic-chunker)
     - [Retreiver/Contextual Compression](https://python.langchain.com/docs/modules/data_connection/retrievers/contextual_compression)
