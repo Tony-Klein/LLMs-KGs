@@ -88,6 +88,7 @@
     - [How to Build Knowledge Graphs With LLMs (python tutorial)](https://youtu.be/tcHIDCGu6Yw?si=3ClDEsa2c0t3POjz)
     - [Advanced RAG with Knowledge Graphs (Neo4J demo)](https://youtu.be/nPG_jKrSpi0?si=vwteQouYrOrf87F9)
 - [John Tan Chong Min - Large Language Models and Knowledge Graphs: Merging Flexibility and Structure](https://youtu.be/1RZ5yIyz31c?si=dG45XYwyIfFHSZBK)
+- [Luke Chaffey - Neo4j Cypher: Merge duplicate nodes](https://youtu.be/VU4Xx4Gwq98?si=DHpu5lO-MSzrqsEM)
 - [pixegami - Pydantic Tutorial • Solving Python's Biggest Problem](https://youtu.be/XIdQ6gO3Anc?si=IH6dUArP9DcZHOaS)
 - [Rudy's AI Corner - Fusing Knowledge Graphs and Large Language Models](https://youtu.be/RBKHLt3n9rM?si=Znz9voX74q2tOzGn)
 - [SupportVectors - Instructor LLM Prompt Framework](https://www.youtube.com/live/EGx33OSpcrM?si=BWTsORQnvzAAvlUD)
