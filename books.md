@@ -39,6 +39,8 @@
 
 - [Engler et al. (2024) - Introduction to Generative AI (ISBN 978-1633437197)](https://learning.oreilly.com/library/view/introduction-to-generative/9781633437197/)
 
+- [Foster et al. (2023) - Generative Deep Learning (ISBN 978-1098134181)](https://learning.oreilly.com/library/view/generative-deep-learning/9781098134174/)
+  
 - [Gosnell et al. (2020) - The Practitioner's Guide to Graph Data (ISBN 978-1492044079)](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
 
 - [Huang et al (2023) - Beyond AI: ChatGPT, Web3, and the Business Landscape of Tomorrow (ISBN 978-3031452826)](https://link.springer.com/book/10.1007/978-3-031-45282-6)
@@ -46,6 +48,8 @@
 - [Hutson et al. (2023) - Graph Data Modeling in Python (ISBN 978-1804618035)](https://www.oreilly.com/library/view/graph-data-modeling/9781804618035/)
 
 - [Kneusel (2023) - How AI Works (ISBN 978-1718503724)](https://learning.oreilly.com/library/view/how-ai-works/9781098168568/)
+
+- [Kochmar (2022) - Getting Started with Natural Language Processing (ISBN 9781617296765)](https://learning.oreilly.com/library/view/getting-started-with/9781617296765/)
 
 - [Kreutzer (2023) - Künstliche Intelligenz verstehen (ISBN 978-3658425982)](https://link.springer.com/978-3-658-42597-5)
 
@@ -61,6 +65,8 @@
 
 - [Pai (2024) - Designing Large Language Model Applications (ISBN 978-1-098-15044-0)](https://learning.oreilly.com/library/view/designing-large-language/9781098150495/)
 
+- [Patel (2023) - Applied Natural Language Processing in the Enterprise (ISBN 978-1492062578)](https://learning.oreilly.com/library/view/applied-natural-language/9781492062561/)
+  
 - [Phoenix (2024) - Prompt Engineering for Generative AI (ISBN 978-1098153434)](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
 
 - [Scifo (2023) - Graph Data Science with Neo4j (ISBN 9781804612743)](https://www.oreilly.com/library/view/graph-data-science/9781804612743/)
