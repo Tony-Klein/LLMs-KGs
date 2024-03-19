@@ -1,5 +1,6 @@
 # Websites
 
+- [DeepLearning AI - Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/)
 - [FullStackRetrieval.com](https://fullstackretrieval.com/)
 - [Generative KI: ChatGPT & co](https://www.plattform-lernende-systeme.de/generative-ki.html)
 - [Google - Build intelligent applications with Neo4j Knowledge Graphs and Google Cloud generative AI](https://cloud.google.com/blog/topics/partners/build-intelligent-apps-with-neo4j-and-google-generative-ai?hl=en)
