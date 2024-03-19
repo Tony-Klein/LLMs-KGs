@@ -113,4 +113,5 @@
 - [Neo4j - 4 - Link Prediction in Knowledge Graphs using Neo4j](https://youtu.be/WPGzCa1qwxM?si=6PwEWdOCNmJuXH06)
 - [Neo4j - 5 - From Text to a Knowledge Graph The Information Extraction Pipeline](https://youtu.be/1sRgsEKlUr0?si=85e74bosquRQIXU1)
 - [Neo4j - Neo4j Demo Exploring Supervised Entity Resolution](https://youtu.be/dNGV4sLkOcA?si=36QRgDQcWt3Q2yxq)
+- [Neo4j - Training Series - Introduction to Neo4j](https://www.youtube.com/live/YDWkPFijKQ4?si=RfgZr5lUcXCv3m6H)
 
