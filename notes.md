@@ -1,0 +1,2 @@
+- Ways to leverage LLMs:
+  - Comprehending natural language and translating it into query statements in a database language
