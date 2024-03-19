@@ -2,22 +2,6 @@
 
 
 - [Alammar et al (2024) - Hands-On Large Language Models (ISBN 978-1-098-15090-7)](https://learning.oreilly.com/library/view/hands-on-large-language/9781098150952/cover.html) this is not released yet
-    - Chapter 1: Preview of Language AI Use Cases (unavailable)
-    - Chapter 2: Categorizing Text
-        - **Zero-shot Classification**
-    - Chapter 3: Neural Search
-        - **Semantic Search**
-    - Chapter 4: Text Clustering and Topic Modeling
-        - **Text Clustering**
-    - Chapter 5: Text Generation with GPT Models (unavailable)
-    - Chapter 6: Recognizing and Extracting Entities (unavailable)
-    - Chapter 7: Multimodal Large Language Models
-    - **Chapter 8: Tokens and Token Embeddings**
-    - Chapter 9: Looking Inside Large Language Models (unavailable)
-    - Chapter 10: Fine-Tuning (unavailable)
-    - Chapter 11: Building a GPT Model from Scratch (unavailable)
-    - Chapter 12: Fine-Tuning Generation Models (unavailable)
-    - Chapter 13: Creating Text Embedding Models
 
 - [Alexopoulos (2020) - Semantic Modeling for Data (ISBN 978-1492054276)](https://www.oreilly.com/library/view/semantic-modeling-for/9781492054269/?_gl=1*1d97uve*_ga*MjA5NDc0MTQ5Ni4xNzA1NDk0Mjk5*_ga_092EL089CH*MTcwOTYzMzgzMy4yLjEuMTcwOTYzNTc1NC4zNy4wLjA.)
 
