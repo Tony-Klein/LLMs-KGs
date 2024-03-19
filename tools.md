@@ -59,3 +59,6 @@
     - [zakaria-hamane/Text2KnowledgeGraph](https://github.com/zakaria-hamane/Text2KnowledgeGraph)
 - [yoheinakajima](https://github.com/yoheinakajima)
     - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph)
+- [neo4j-graph-examples](https://github.com/neo4j-graph-examples)
+    - [neo4j-graph-examples/entity-resolution](https://github.com/neo4j-graph-examples/entity-resolution/tree/main)
+        - [Entity Resolution](https://github.com/neo4j-graph-examples/entity-resolution/blob/main/documentation/entity-resolution.adoc)
