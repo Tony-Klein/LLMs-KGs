@@ -26,6 +26,7 @@
 - [Bratanic (2023) - Creating a Knowledge Graph From Video Transcripts With ChatGPT](#)
 - [Bratanic (2023) - Efficient semantic search over unstructured text in Neo4j](#)
 - [Bratanic (2023) - Fine-tuning an LLM model with H2O LLM Studio to generate Cypher statements](#)
+- [Bratanic (2023) - Generating Cypher Queries With ChatGPT 4 on Any Graph Schema](https://medium.com/neo4j/generating-cypher-queries-with-chatgpt-4-on-any-graph-schema-a57d7082a7e7)
 - [Bratanic (2023) - Integrate LLM workflows with Knowledge Graph using Neo4j and APOC](#)
 - [Bratanic (2023) - Integrating Neo4j into the LangChain ecosystem](#)
 - [Bratanic (2023) - Knowledge Graphs and LLMs - Fine-Tuning Vs. Retrieval-Augmented Generation](#)
