@@ -48,6 +48,7 @@
 - [Khetan et al (2021) - Causal-BERT - Language models for causality detection between events expressed in text (2012.05453-2)](#)
 - [Kucharavy et al (2023) - Fundamentals of Generative Large Language Models and Perspectives in Cyber-Defense (2303.12132)](#)
 - [Lehmann et al (2023) - Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering](#)
+- [Lewis et al (2022) - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 - [Li et al (2023) - Computation of Node Distances on Hypergraphs](#)
 - [Li et al (2023) - Chain-of-Knowledge - Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogenous Sources (2305.13269)](#)
 - [Li et al (2024) - Leveraging Large Language Models for NLG Evaluation - A Survey (2401.07103)](#)
