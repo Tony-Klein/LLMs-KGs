@@ -25,6 +25,7 @@
 ## Github - Informations
 - [quqxui/Awesome-LLM4IE-Papers](https://github.com/quqxui/Awesome-LLM4IE-Papers)
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+- [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress/blob/master/README.md)
 
 ## Github - Repositories
 - [danb-neo4j](https://github.com/danb-neo4j)
