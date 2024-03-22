@@ -53,7 +53,7 @@
   
 - [Phoenix (2024) - Prompt Engineering for Generative AI (ISBN 978-1098153434)](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
 
-- [Vajjala et al () - Practical Natural Language Processing (ISBN 978-1492054054)](https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/)
+- [Vajjala et al (2020) - Practical Natural Language Processing (ISBN 978-1492054054)](https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/)
 
 - [Scifo (2023) - Graph Data Science with Neo4j (ISBN 9781804612743)](https://www.oreilly.com/library/view/graph-data-science/9781804612743/)
 
