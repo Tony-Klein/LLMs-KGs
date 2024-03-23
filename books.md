@@ -23,7 +23,7 @@
 
 - [Engler et al. (2024) - Introduction to Generative AI (ISBN 978-1633437197)](https://learning.oreilly.com/library/view/introduction-to-generative/9781633437197/)
 
-- [Foster et al. (2023) - Generative Deep Learning (ISBN 978-1098134181)](https://learning.oreilly.com/library/view/generative-deep-learning/9781098134174/)
+- [Foster et al. (2023) - Generative Deep Learning (ISBN 978-1-09-813418-1)](https://learning.oreilly.com/library/view/generative-deep-learning/9781098134174/)
   
 - [Gosnell et al. (2020) - The Practitioner's Guide to Graph Data (ISBN 978-1492044079)](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
 
