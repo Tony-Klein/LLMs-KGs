@@ -13,7 +13,7 @@
 - [Benedict et al (2023) - Gen-IR at SIGIR 2023 - The First Workshop on Generative (2306.02887)]()
 - [Buehler (2024) - Generative Retrieval-augmented Ontologic Graph and Multiagent-strategies for Interpretive Large Language Model-Based Materials Design]()
 - [Buehler (2024) - MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities (2310.10445)]()
-- [Carta et al (2023) - Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (2307.01128)]()
+- [Carta et al (2023) - Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (arXiv:2307.01128)](https://doi.org/10.48550/arXiv.2307.01128)
 - [Caufiled et al (2023) - Structured Prompt Interrogation and Recursive Extraction of Semantics (SPIRES) - A Method for Populating Knowledge Bases Using Zero-Shot Learning (2304.02711)]()
 - [Chang et al (2023) - A Survey on Evaluation of Large Language Models (2307.03109)]()
 - [Chen et al (2020) - Knowledge Graph and Semantic Computing Knowledge Graph and Cognitive Intelligence (978-981-16-1964-9)]()
