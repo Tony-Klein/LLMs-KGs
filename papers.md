@@ -1,11 +1,11 @@
 # Academic Papers
 
-- [Abu-Salih (2021) - Domain-specific knowledge graphs - A survey](https://arxiv.org/abs/2011.00235)
-- [Abu-Salih (2023) - Knowledge Graph Construction for Social Customer Advocacy in Online Customer Engagement](#)
-- [Abu-Salih et al (2024) - A systematic literature review of knowledge graph construction and application in education](#)
-- [Agrawal et al (2023) - Can Knowledge Graphs Reduce Hallucinations in LLMs - A Survey (2311.07914)](#)
-- [Al-Tawil et al (2023) - Emerging Exploration Strategies of Knowledge Graphs](#)
-- [An et al (2022) - Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)](#)
+- [Abu-Salih (2021) - Domain-specific knowledge graphs - A survey (2011.00235)](https://arxiv.org/abs/2011.00235)
+- [Abu-Salih (2023) - Knowledge Graph Construction for Social Customer Advocacy in Online Customer Engagement](https://www.mdpi.com/2227-7080/11/5/123)
+- [Abu-Salih et al (2024) - A systematic literature review of knowledge graph construction and application in education](https://pubmed.ncbi.nlm.nih.gov/38327411/)
+- [Agrawal et al (2023) - Can Knowledge Graphs Reduce Hallucinations in LLMs - A Survey (2311.07914)](https://arxiv.org/abs/2311.07914)
+- [Al-Tawil et al (2023) - Emerging Exploration Strategies of Knowledge Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10229152)
+- [An et al (2022) - Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)](https://ieeexplore.ieee.org/document/10020568)
 - [Baek et al (2023) - Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (2306.04136)](#)
 - [Bai et al (2023) - Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints (2305.19068v2)](#)
 - [Balaguer et al (2024) - RAG vs Fine-Tuning - Pipelines, Tradeoffs, and a Case Study on Agriculture (2401.08406)](#)
