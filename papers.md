@@ -1,6 +1,6 @@
 # Academic Papers
 
-- [Abu-Salih (2021) - Domain-specific knowledge graphs - A survey](#)
+- [Abu-Salih (2021) - Domain-specific knowledge graphs - A survey](https://arxiv.org/abs/2011.00235)
 - [Abu-Salih (2023) - Knowledge Graph Construction for Social Customer Advocacy in Online Customer Engagement](#)
 - [Abu-Salih et al (2024) - A systematic literature review of knowledge graph construction and application in education](#)
 - [Agrawal et al (2023) - Can Knowledge Graphs Reduce Hallucinations in LLMs - A Survey (2311.07914)](#)
