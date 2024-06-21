@@ -94,6 +94,7 @@
 - [Pandey (2023) - Enhancing ChatGPT with Knowledge Graphs - A Deep Dive](#)
 - [Patil (2024) - Leveraging Language Models (LLM) in your Organization](#)
 - [Patra (2023) - Prompt Engineering & Orchestration](#)
+- [Pipis (2024) - Get Started with Chroma DB and Retrieval Models using LangChain](https://medium.com/@jorgepit-14189/get-started-with-chroma-db-and-retrieval-models-using-langchain-87784ffaa918)
 - [PromptArtist (2023) - How to Optimize ChatGPT Prompts - Tokens & Costs](#)
 - [Schifman (2024) - RAG on FHIR with Knowledge Graphs](#)
 - [Seabra (2023) - Towards AI-generated Insights - The Synergy of Knowledge Graphs and GPT-4 in E-Commerce Recommendations](#)
