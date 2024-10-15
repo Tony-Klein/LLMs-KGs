@@ -5,3 +5,4 @@
 - [Entity Resolution - Technical Walkthrough](https://neo4j.com/developer/industry-use-cases/agnostic/entity-resolution/)
 - [Full-text indexes](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/full-text-indexes/)
 - [Vector search indexes](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/vector-indexes/)
+- [Graphacademy - Building Knowledge Graphs with LLMs](https://graphacademy.neo4j.com/courses/llm-knowledge-graph-construction/)
