@@ -9,7 +9,7 @@
 |           | 2023 | [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (arXiv:2306.04136)](https://doi.org/10.48550/arXiv.2306.04136) | Baek et al |
 |           | 2023 | [Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints (arXiv:2305.19068v2)](https://doi.org/10.48550/arXiv.2305.19068) | Bai et al |
 |           | 2024 | [RAG vs Fine-Tuning - Pipelines, Tradeoffs, and a Case Study on Agriculture (arXiv:2401.08406)](https://doi.org/10.48550/arXiv.2401.08406) | Balaguer et al |
-|           | 2023 | [Building Knowledge Graphs Practitioner's Guide (978-1098127107)](https://neo4j.com/knowledge-graphs-practitioners-guide/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=EMEA-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA&gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUmxEwrl-ZMNtSgO5jts7s6NnDME8FmBnFBRFAkPSYMvFknDWfCjGTEaAsNMEALw_wcB) | Barrasa et al. |
+|           | 2023 | [Building Knowledge Graphs Practitioner's Guide (978-1098127107)](https://neo4j.com/knowledge-graphs-practitioners-guide/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=EMEA-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA&gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUmxEwrl-ZMNtSgO5jts7s6NnDME8FmBnFBRFAkPSYMvFknDWfCjGTEaAsNMEALw_wcB) | Barrasa et al |
 |           | 2023 | [Gen-IR at SIGIR 2023 - The First Workshop on Generative (arXiv:2306.02887)](https://doi.org/10.48550/arXiv.2306.02887) | Benedict et al |
 |           | 2024 | [Generative Retrieval-augmented Ontologic Graph and Multiagent-strategies for Interpretive Large Language Model-Based Materials Design (arXiv:2310.19998)](https://doi.org/10.48550/arXiv.2310.19998) | Buehler |
 |           | 2024 | [MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities (arXiv:2310.10445)](https://doi.org/10.48550/arXiv.2310.10445) | Buehler |
@@ -60,7 +60,7 @@
 |           | 2023 | [LLM-assisted Knowledge Graph Engineering - Experiments with ChatGPT (arXiv:2307.06917)](https://doi.org/10.48550/arXiv.2307.06917) | Meyer |
 |           | 2023 | [TEXT2KGBENCH - A Benchmark for Ontology-Driven Knowledge Graph Generation from Text (arXiv:2308.02357)](https://doi.org/10.48550/arXiv.2308.02357) | Mihindukulasooriya et al |
 |           | 2024 | [Large Language Models - A Survey (arXiv:2402.06196)](https://doi.org/10.48550/arXiv.2402.06196) | Minaee et al |
-|           | 2024 | [Are LLMs Ready for Real-World Materials Discovery (arXiv:2402.05200)](https://doi.org/10.48550/arXiv.2402.05200) | Miret et al. |
+|           | 2024 | [Are LLMs Ready for Real-World Materials Discovery (arXiv:2402.05200)](https://doi.org/10.48550/arXiv.2402.05200) | Miret et al |
 |           | 2001 | [Ontology Development 101 - A Guide to Creating Your First Ontology](https://protege.stanford.edu/publications/ontology_development/ontology101.pdf) | Noy et al |
 |           | 2017 | [Exploiting Linked Data and Knowledge Graphs in Large Organizations (978-3-319-45654-6)](https://doi.org/10.1007/978-3-319-45654-6) | Pan |
 |           | 2024 | [Unifying Large Language Models and Knowledge Graphs - A Roadmap (arXiv:2306.08302)](https://doi.org/10.48550/arXiv.2306.08302) | Pan et al |
@@ -98,7 +98,7 @@
 |           | 2024 | [KICGPT - Large Language Model with Knowledge in Context for Knowledge Graph Completion (arXiv:2402.02389)](https://doi.org/10.48550/arXiv.2402.02389) | Wei |
 |           | 2023 | [MindMap - Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models (arXiv:2308.09729)](https://doi.org/10.48550/arXiv.2308.09729) | Wen et al |
 |           | 2023 | [AutoGen - Enabling Next-Gen LLM Applications via Multi-Agent Conversation (arXiv:2308.08155)](https://doi.org/10.48550/arXiv.2308.08155) | Wu et al |
-|           | 2024 | [Structured Entity Extraction Using Large Language Models (arXiv:2402.04437)](https://doi.org/10.48550/arXiv.2402.04437) | Wu et al. |
+|           | 2024 | [Structured Entity Extraction Using Large Language Models (arXiv:2402.04437)](https://doi.org/10.48550/arXiv.2402.04437) | Wu et al |
 |           | 2023 | [Large Language Models for Generative Information Extraction - A Survey (arXiv:2312.17617)](https://doi.org/10.48550/arXiv.2312.17617) | Xu et al |
 |           | 2024 | [Give Us the Facts - Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (arXiv:2306.11489)](https://doi.org/10.48550/arXiv.2306.11489) | Yang et al |
 |           | 2023 | [Exploring Large Language Models for Knowledge Graph Completion (arXiv:2308.13916)](https://doi.org/10.48550/arXiv.2308.13916) | Yao et al |
