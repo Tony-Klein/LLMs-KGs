@@ -1,6 +1,6 @@
 | Relevancy | Year | Title | Author |
 |-----------|------|-------|--------|
-|Low        | 2021 | [Domain-specific knowledge graphs - A survey (arXiv:2011.00235)](https://doi.org/10.48550/arXiv.2011.00235) | Abu-Salih |
+|Medium     | 2021 | [Domain-specific knowledge graphs - A survey (arXiv:2011.00235)](https://doi.org/10.48550/arXiv.2011.00235) | Abu-Salih |
 |           | 2023 | [Knowledge Graph Construction for Social Customer Advocacy in Online Customer Engagement](https://doi.org/10.3390/technologies11050123) | Abu-Salih |
 |           | 2024 | [A systematic literature review of knowledge graph construction and application in education](https://doi.org/10.1016/j.heliyon.2024.e25383) | Abu-Salih et al |
 |           | 2023 | [Can Knowledge Graphs Reduce Hallucinations in LLMs - A Survey (arXiv:2311.07914)](https://doi.org/10.48550/arXiv.2311.07914) | Agrawal et al |
