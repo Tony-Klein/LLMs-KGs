@@ -1,16 +1,16 @@
 | Relevancy | Year | Title | Author |
 |-----------|------|-------|--------|
-|Medium     | 2021 | [Domain-specific knowledge graphs - A survey (arXiv:2011.00235)](https://doi.org/10.48550/arXiv.2011.00235) | Abu-Salih |
-|           | 2023 | [Knowledge Graph Construction for Social Customer Advocacy in Online Customer Engagement](https://doi.org/10.3390/technologies11050123) | Abu-Salih |
-|           | 2024 | [A systematic literature review of knowledge graph construction and application in education](https://doi.org/10.1016/j.heliyon.2024.e25383) | Abu-Salih et al |
-|           | 2023 | [Can Knowledge Graphs Reduce Hallucinations in LLMs - A Survey (arXiv:2311.07914)](https://doi.org/10.48550/arXiv.2311.07914) | Agrawal et al |
-|           | 2023 | [Emerging Exploration Strategies of Knowledge Graphs](https://doi.org/10.1109/ACCESS.2023.3308514) | Al-Tawil et al |
-|           | 2022 | [Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)](https://doi.org/10.1109/BigData55660.2022.10020568) | An et al |
-|           | 2023 | [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (arXiv:2306.04136)](https://doi.org/10.48550/arXiv.2306.04136) | Baek et al |
-|           | 2023 | [Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints (arXiv:2305.19068v2)](https://doi.org/10.48550/arXiv.2305.19068) | Bai et al |
-|           | 2024 | [RAG vs Fine-Tuning - Pipelines, Tradeoffs, and a Case Study on Agriculture (arXiv:2401.08406)](https://doi.org/10.48550/arXiv.2401.08406) | Balaguer et al |
-|           | 2023 | [Building Knowledge Graphs Practitioner's Guide (978-1098127107)](https://neo4j.com/knowledge-graphs-practitioners-guide/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=EMEA-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA&gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUmxEwrl-ZMNtSgO5jts7s6NnDME8FmBnFBRFAkPSYMvFknDWfCjGTEaAsNMEALw_wcB) | Barrasa et al |
-|           | 2023 | [Gen-IR at SIGIR 2023 - The First Workshop on Generative (arXiv:2306.02887)](https://doi.org/10.48550/arXiv.2306.02887) | Benedict et al |
+|Medium     | 2011 | [Domain-specific knowledge graphs - A survey (arXiv:2011.00235)](https://doi.org/10.48550/arXiv.2011.00235) | Abu-Salih |
+|Low        | 2023 | [Knowledge Graph Construction for Social Customer Advocacy in Online Customer Engagement](https://doi.org/10.3390/technologies11050123) | Abu-Salih |
+|Medium     | 2024 | [A systematic literature review of knowledge graph construction and application in education](https://doi.org/10.1016/j.heliyon.2024.e25383) | Abu-Salih et al |
+|Medium     | 2023 | [Can Knowledge Graphs Reduce Hallucinations in LLMs - A Survey (arXiv:2311.07914)](https://doi.org/10.48550/arXiv.2311.07914) | Agrawal et al |
+|Low        | 2023 | [Emerging Exploration Strategies of Knowledge Graphs](https://doi.org/10.1109/ACCESS.2023.3308514) | Al-Tawil et al |
+|Low-Medium | 2022 | [Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)](https://doi.org/10.1109/BigData55660.2022.10020568) | An et al |
+|Medium-High| 2023 | [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (arXiv:2306.04136)](https://doi.org/10.48550/arXiv.2306.04136) | Baek et al |
+|Low-Medium | 2023 | [Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints (arXiv:2305.19068v2)](https://doi.org/10.48550/arXiv.2305.19068) | Bai et al |
+|Low        | 2024 | [RAG vs Fine-Tuning - Pipelines, Tradeoffs, and a Case Study on Agriculture (arXiv:2401.08406)](https://doi.org/10.48550/arXiv.2401.08406) | Balaguer et al |
+|Medium-High| 2023 | [Building Knowledge Graphs Practitioner's Guide (978-1098127107)](https://neo4j.com/knowledge-graphs-practitioners-guide/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=EMEA-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA&gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUmxEwrl-ZMNtSgO5jts7s6NnDME8FmBnFBRFAkPSYMvFknDWfCjGTEaAsNMEALw_wcB) | Barrasa et al |
+|Low        | 2023 | [Gen-IR at SIGIR 2023 - The First Workshop on Generative (arXiv:2306.02887)](https://doi.org/10.48550/arXiv.2306.02887) | Benedict et al |
 |           | 2024 | [Generative Retrieval-augmented Ontologic Graph and Multiagent-strategies for Interpretive Large Language Model-Based Materials Design (arXiv:2310.19998)](https://doi.org/10.48550/arXiv.2310.19998) | Buehler |
 |           | 2024 | [MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities (arXiv:2310.10445)](https://doi.org/10.48550/arXiv.2310.10445) | Buehler |
 |           | 2023 | [Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (arXiv:2307.01128)](https://doi.org/10.48550/arXiv.2307.01128) | Carta et al |
