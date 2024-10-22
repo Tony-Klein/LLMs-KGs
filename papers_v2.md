@@ -69,6 +69,7 @@
 |           | 2016 | [Knowledge Graph Refinement - A Survey of Approaches and Evaluation Methods](https://semantic-web-journal.net/system/files/swj1167.pdf) | Paulheim |
 |           | 2023 | [Embedding Knowledge Graphs with RDF2vec (978-3-031-30387-6)](https://doi.org/10.1007/978-3-031-30387-6) | Paulheim et al |
 |           | 2023 | [Knowledge Graphs Opportunities and Challenges (arXiv:2303.13948)](https://doi.org/10.48550/arXiv.2303.13948) | Peng et al |
+|           | 2024 | [Graph Retrieval-Augmented Generation: A Survey (arXiv:2408.08921)](https://doi.org/10.48550/arXiv.2408.08921) | Peng et al |
 |           | 2024 | [Let Your Graph Do the Talking - Encoding Structured Data for LLMs (arXiv:2402.05862)](https://doi.org/10.48550/arXiv.2402.05862) | Perozzi |
 |           | 2023 | [The Semantic Web (978-3-031-33455-9)](https://doi.org/10.1007/978-3-031-33455-9) | Pesquita et al |
 |           | 2022 | [Ontologies (in Encyclopedia of Big Data) (10.1007_978-3-319-32010-6)](https://doi.org/10.1007/978-3-319-32010-6) | Prahbu |
