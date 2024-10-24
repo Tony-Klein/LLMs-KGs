@@ -78,6 +78,7 @@
 |           | 2022 | [FACTGRAPH - Evaluating Factuality in Summarization with Semantic Graph Representations (arXiv:2204.06508)](https://doi.org/10.48550/arXiv.2204.06508) | Ribeiro et al |
 |           | 2015 | [Graph Databases](https://www.oreilly.com/library/view/graph-databases-2nd/9781491930885/) | Robinson et al |
 |           | 2023 | [Integrating Noisy Knowledge into Language Representations for E-Commerce Applications](https://www.amazon.science/publications/integrating-noisy-knowledge-into-language-representations-for-e-commerce-applications) | Samel et al |
+|           | 2024 | [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction (arXiv:2408.04948)](https://doi.org/10.48550/arXiv.2408.04948) | Sarmah et al |
 |           | 1973 | [Course Modularization Applied - The Interface System and Its Implications For Sequence Control and Data Analysis (ED088424)](https://eric.ed.gov/?id=ED088424) | Schneider |
 |           | 2024 | [Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs (arXiv:2401.01711)](https://doi.org/10.48550/arXiv.2401.01711) | Schneider et al |
 |           | 2022 | [Structural Quality Metrics to Evaluate Knowledge Graph Quality (arXiv:2211.10011)](https://doi.org/10.48550/arXiv.2211.10011) | Seo et al |
