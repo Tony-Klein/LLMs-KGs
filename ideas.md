@@ -1,5 +1,7 @@
 Sources:
 - [freeCodeCamp.org - Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=d-cAX2okDj5bJmfb)
+- [GitHub - langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
+- [https://www.freecodecamp.org/news/mastering-rag-from-scratch/](https://www.freecodecamp.org/news/mastering-rag-from-scratch/)
 - [freeCodeCamp.org - RAG Fundamentals and Advanced Techniques – Full Course
 ](https://youtu.be/ea2W8IogX80?si=lKfzFOJyoIc5y3sd)
 - [AI Engineer - Architecting and Testing Controllable Agents: Lance Martin](https://youtu.be/ib-wTAvCZqg?si=-Eq9T0GSrzgQabuw)
