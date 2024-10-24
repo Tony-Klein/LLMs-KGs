@@ -5,9 +5,9 @@
 - Knowledge Graphs
 - Graph Neural Networks
 - Corrective RAG
-  
-  ![Corrective RAG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07qVjqpFdbNNDlvP6nXLXSdqOJhm9qO4X1w&s)
   - [Corrective Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2401.15884)
   - [LangChain - Building Corrective RAG from scratch with open-source, local LLMs](https://youtu.be/E2shqsYwxck?si=qg199MKQ84dtDe6U)
 - Self-RAG
   - [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://doi.org/10.48550/arXiv.2310.11511)
+
+- Self-RAG, Corrective RAG, + Adaptive RAG in LangGraph
