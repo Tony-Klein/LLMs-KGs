@@ -1,3 +1,14 @@
+Sources:
+- [freeCodeCamp.org - Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=d-cAX2okDj5bJmfb)
+- [AI Engineer - Architecting and Testing Controllable Agents: Lance Martin](https://youtu.be/ib-wTAvCZqg?si=-Eq9T0GSrzgQabuw)
+
+# RAG from Scratch
+
+
+
+
+
+
 - Naive RAG (vectorbased)
 - Advanced RAG
 - GraphRAG
