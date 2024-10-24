@@ -5,6 +5,21 @@ Sources:
 - [AI Engineer - Architecting and Testing Controllable Agents: Lance Martin](https://youtu.be/ib-wTAvCZqg?si=-Eq9T0GSrzgQabuw)
 
 # RAG from Scratch
+Definition of RAG:
+> RAG combines external knowledge with LLMs for improved task performance, integrating domain-
+specific information to ensure factuality and credibility. [Peng et al.](https://doi.org/10.48550/arXiv.2408.08921)
+
+- Basics:
+  - Indexing
+  - Retrieval
+  - Generation
+- Advanced:
+  - Query transformations
+  - Routing
+  - Query construction
+  - Indexing
+  - Retrieval
+  - Generation
 
 ## Query Translation
 ### Multi-query
