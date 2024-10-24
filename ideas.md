@@ -43,7 +43,7 @@ Sources:
 - [https://superlinked.com/vector-db-comparison](https://superlinked.com/vector-db-comparison)
 
   
-### Basic Generation
+## Basic Generation
 
 Taking retrieved documents and stuffing them into the LLM Context Window.
  
