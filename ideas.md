@@ -48,9 +48,9 @@ Sources:
 Taking retrieved documents and stuffing them into the LLM Context Window.
  
 Sources:
--[https://python.langchain.com/v0.1/docs/use_cases/question_answering/](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
--[https://python.langchain.com/v0.1/docs/expression_language/](https://python.langchain.com/v0.1/docs/expression_language/)
--[https://python.langchain.com/docs/concepts/lcel/](https://python.langchain.com/docs/concepts/lcel/)
+- [https://python.langchain.com/v0.1/docs/use_cases/question_answering/](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
+- [https://python.langchain.com/v0.1/docs/expression_language/](https://python.langchain.com/v0.1/docs/expression_language/)
+- [https://python.langchain.com/docs/concepts/lcel/](https://python.langchain.com/docs/concepts/lcel/)
 
 
 - Advanced:
