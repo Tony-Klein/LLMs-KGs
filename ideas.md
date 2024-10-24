@@ -6,6 +6,7 @@ Sources that inspired this document:
 ](https://youtu.be/ea2W8IogX80?si=lKfzFOJyoIc5y3sd)
 - [AI Engineer - Architecting and Testing Controllable Agents: Lance Martin](https://youtu.be/ib-wTAvCZqg?si=-Eq9T0GSrzgQabuw)
 
+
 # RAG from Scratch
 Definition of RAG:
 > RAG combines external knowledge with LLMs for improved task performance, integrating domain-
@@ -14,6 +15,18 @@ specific information to ensure factuality and credibility. [Peng et al.](https:/
 ## Overview
 
 [...]
+
+- Basic:
+  - Indexing
+  - Retrieval
+  - Generation
+- Advanced:
+  - Query transformations
+  - Routing
+  - Query construction
+  - Indexing
+  - Retrieval
+  - Generation
 
 Sources:
 - [https://huggingface.co/blog/mixtral](https://huggingface.co/blog/mixtral)
@@ -52,14 +65,6 @@ Sources:
 - [https://python.langchain.com/v0.1/docs/expression_language/](https://python.langchain.com/v0.1/docs/expression_language/)
 - [https://python.langchain.com/docs/concepts/lcel/](https://python.langchain.com/docs/concepts/lcel/)
 
-
-- Advanced:
-  - Query transformations
-  - Routing
-  - Query construction
-  - Indexing
-  - Retrieval
-  - Generation
 
 #### Chunking
 - Semantic Chunking
