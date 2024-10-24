@@ -23,6 +23,16 @@ specific information to ensure factuality and credibility. [Peng et al.](https:/
   - Retrieval
   - Generation
 
+#### Loading, splitting and embedding
+- [Greg Kamradt - ChunkViz v0.1](https://chunkviz.up.railway.app)
+- [YouTube - Greg Kamradt - The 5 Levels Of Text Splitting For Retrieval](https://youtu.be/8OJC21T2SL4?si=lKSnKqFQfD9YP5EE)
+
+#### Chunking
+- Semantic Chunking
+  - [YouTube - Greg Kamradt - The 5 Levels Of Text Splitting For Retrieval](https://youtu.be/8OJC21T2SL4?si=lKSnKqFQfD9YP5EE)
+  - [LangChain - Semantic Chunking](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/semantic-chunker/)
+  - [LangChain - AI21SemanticTextSplitter](https://python.langchain.com/v0.1/docs/integrations/document_transformers/ai21_semantic_text_splitter/)
+
 ## Query Translation
 ### Multi-query
 ### RAG Fusion
