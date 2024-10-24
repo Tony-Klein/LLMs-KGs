@@ -1,4 +1,4 @@
-Sources:
+Sources that inspired this document:
 - [freeCodeCamp.org - Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=d-cAX2okDj5bJmfb)
   - [GitHub - langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
   - [https://www.freecodecamp.org/news/mastering-rag-from-scratch/](https://www.freecodecamp.org/news/mastering-rag-from-scratch/)
@@ -11,10 +11,48 @@ Definition of RAG:
 > RAG combines external knowledge with LLMs for improved task performance, integrating domain-
 specific information to ensure factuality and credibility. [Peng et al.](https://doi.org/10.48550/arXiv.2408.08921)
 
-- Basics:
-  - Indexing
-  - Retrieval
-  - Generation
+## Overview
+
+[...]
+
+Sources:
+- [https://huggingface.co/blog/mixtral](https://huggingface.co/blog/mixtral)
+- [https://x.com/RihardJarc/status/1778082161595208124](https://x.com/RihardJarc/status/1778082161595208124)
+- [https://x.com/karpathy/status/1707437820045062561?s=20](https://x.com/karpathy/status/1707437820045062561?s=20)
+
+## Basic Indexing
+
+[...]
+
+Sources:
+- [https://python.langchain.com/docs/integrations/providers/](https://python.langchain.com/docs/integrations/providers/)
+- [Greg Kamradt - ChunkViz v0.1](https://chunkviz.up.railway.app)
+- [YouTube - Greg Kamradt - The 5 Levels Of Text Splitting For Retrieval](https://youtu.be/8OJC21T2SL4?si=lKSnKqFQfD9YP5EE)
+
+## Basic Retrieval
+
+- Split documents into smaller chunks, that can be easily embedded.
+- Reasons:
+  - LLM Context-Windows
+  - the smalle the embedded chunks, the more precise vector embeddings
+
+Sources:
+- [https://simonwillison.net/2023/Oct/23/embeddings/](https://simonwillison.net/2023/Oct/23/embeddings/)
+- [https://www.pinecone.io/learn/series/faiss/hnsw/](https://www.pinecone.io/learn/series/faiss/hnsw/)
+- [https://python.langchain.com/docs/integrations/providers/](https://python.langchain.com/docs/integrations/providers/)
+- [https://superlinked.com/vector-db-comparison](https://superlinked.com/vector-db-comparison)
+
+  
+### Basic Generation
+
+Taking retrieved documents and stuffing them into the LLM Context Window.
+ 
+Sources:
+-[https://python.langchain.com/v0.1/docs/use_cases/question_answering/](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
+-[https://python.langchain.com/v0.1/docs/expression_language/](https://python.langchain.com/v0.1/docs/expression_language/)
+-[https://python.langchain.com/docs/concepts/lcel/](https://python.langchain.com/docs/concepts/lcel/)
+
+
 - Advanced:
   - Query transformations
   - Routing
@@ -22,10 +60,6 @@ specific information to ensure factuality and credibility. [Peng et al.](https:/
   - Indexing
   - Retrieval
   - Generation
-
-#### Loading, splitting and embedding
-- [Greg Kamradt - ChunkViz v0.1](https://chunkviz.up.railway.app)
-- [YouTube - Greg Kamradt - The 5 Levels Of Text Splitting For Retrieval](https://youtu.be/8OJC21T2SL4?si=lKSnKqFQfD9YP5EE)
 
 #### Chunking
 - Semantic Chunking
