@@ -62,11 +62,27 @@ Taking retrieved documents and stuffing them into the LLM Context Window.
  
 Sources:
 - [https://python.langchain.com/v0.1/docs/use_cases/question_answering/](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
+- [https://python.langchain.com/docs/how_to/#qa-with-rag](https://python.langchain.com/docs/how_to/#qa-with-rag)
 - [https://python.langchain.com/v0.1/docs/expression_language/](https://python.langchain.com/v0.1/docs/expression_language/)
 - [https://python.langchain.com/docs/concepts/lcel/](https://python.langchain.com/docs/concepts/lcel/)
 
 ## Query Translation
 ### Multi-query
+
+If the query is poorly written (because we are typically doing some kind of semntic similraity search betweet query and documents), we won't retrieve the proper documents.
+
+Questions have a certain level of abstraction. Along this scale of abstraction a step-back question is a more abstract question, while a sub-question is a less abstract and more concrete question.
+
+Problem:
+The way a question was originally worded, might not be well aligned (or in close proximity in this high dimensional embedding space) to a document we want to retrieve.
+
+Idea: By re-writing the question in different ways, we might be able to increase the lieklihood of actually retrieving the document that we actually want to retrieve.
+
+Sources:
+- [https://x.com/abacaj/status/1652011519863926786](https://x.com/abacaj/status/1652011519863926786)
+- [LangChain - How to use the MultiQueryRetriever](https://python.langchain.com/docs/how_to/MultiQueryRetriever/)
+
+  
 ### RAG Fusion
 ### Decomposition
 ### Step-back
