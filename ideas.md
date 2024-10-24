@@ -5,6 +5,7 @@ Sources that inspired this document:
 - [freeCodeCamp.org - RAG Fundamentals and Advanced Techniques – Full Course
 ](https://youtu.be/ea2W8IogX80?si=lKfzFOJyoIc5y3sd)
 - [AI Engineer - Architecting and Testing Controllable Agents: Lance Martin](https://youtu.be/ib-wTAvCZqg?si=-Eq9T0GSrzgQabuw)
+- [LangChain - How to](https://python.langchain.com/docs/how_to/)
 
 
 # RAG from Scratch
