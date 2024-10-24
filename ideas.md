@@ -1,9 +1,58 @@
 Sources:
 - [freeCodeCamp.org - Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=d-cAX2okDj5bJmfb)
+- [freeCodeCamp.org - RAG Fundamentals and Advanced Techniques – Full Course
+](https://youtu.be/ea2W8IogX80?si=lKfzFOJyoIc5y3sd)
 - [AI Engineer - Architecting and Testing Controllable Agents: Lance Martin](https://youtu.be/ib-wTAvCZqg?si=-Eq9T0GSrzgQabuw)
 
 # RAG from Scratch
 
+## Query Translation
+### Multi-query
+### RAG Fusion
+### Decomposition
+### Step-back
+### HyDe
+
+## Routing
+### Logical Routing
+### Semantic Routing
+
+## Query Construction
+### Relational DBs (Text-to-SQL)
+### GraphDBs (Text-to-Cypher)
+### VectorDBs (Self-query retriever)
+
+## Indexing
+### Chunk Optimization
+#### Semantic Splitter
+### Multi-represantation Indexing
+#### ParentDocument
+#### Dense X
+### Specialized Embeddings
+#### Fine-tuning
+#### Colbert
+### Hierarchical Indexing
+#### RAPTOR
+
+## Retrieval
+
+### Ranking
+#### Re-Rank
+#### RankGPT
+#### RAG-Fusion
+
+### Refinement
+#### CRAG
+
+### Active Retrieval
+
+### CRAG
+
+## Generation
+
+### Active Retrieval
+#### Self-RAG
+#### RRR
 
 
 
