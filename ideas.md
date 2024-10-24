@@ -65,13 +65,6 @@ Sources:
 - [https://python.langchain.com/v0.1/docs/expression_language/](https://python.langchain.com/v0.1/docs/expression_language/)
 - [https://python.langchain.com/docs/concepts/lcel/](https://python.langchain.com/docs/concepts/lcel/)
 
-
-#### Chunking
-- Semantic Chunking
-  - [YouTube - Greg Kamradt - The 5 Levels Of Text Splitting For Retrieval](https://youtu.be/8OJC21T2SL4?si=lKSnKqFQfD9YP5EE)
-  - [LangChain - Semantic Chunking](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/semantic-chunker/)
-  - [LangChain - AI21SemanticTextSplitter](https://python.langchain.com/v0.1/docs/integrations/document_transformers/ai21_semantic_text_splitter/)
-
 ## Query Translation
 ### Multi-query
 ### RAG Fusion
@@ -101,39 +94,37 @@ Sources:
 #### RAPTOR
 
 ## Retrieval
-
 ### Ranking
 #### Re-Rank
 #### RankGPT
 #### RAG-Fusion
-
 ### Refinement
 #### CRAG
-
 ### Active Retrieval
-
 ### CRAG
+- [Corrective Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2401.15884)
+- [LangChain - Building Corrective RAG from scratch with open-source, local LLMs](https://youtu.be/E2shqsYwxck?si=qg199MKQ84dtDe6U)
+
 
 ## Generation
-
 ### Active Retrieval
 #### Self-RAG
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://doi.org/10.48550/arXiv.2310.11511)
 #### RRR
 
+# Other Stuff that needs to be organized
 
+## Chunking
+- Semantic Chunking
+  - [YouTube - Greg Kamradt - The 5 Levels Of Text Splitting For Retrieval](https://youtu.be/8OJC21T2SL4?si=lKSnKqFQfD9YP5EE)
+  - [LangChain - Semantic Chunking](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/semantic-chunker/)
+  - [LangChain - AI21SemanticTextSplitter](https://python.langchain.com/v0.1/docs/integrations/document_transformers/ai21_semantic_text_splitter/)
 
-
-
+## random
 - Naive RAG (vectorbased)
 - Advanced RAG
 - GraphRAG
 - Agents
 - Knowledge Graphs
 - Graph Neural Networks
-- Corrective RAG
-  - [Corrective Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2401.15884)
-  - [LangChain - Building Corrective RAG from scratch with open-source, local LLMs](https://youtu.be/E2shqsYwxck?si=qg199MKQ84dtDe6U)
-- Self-RAG
-  - [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://doi.org/10.48550/arXiv.2310.11511)
-
 - Self-RAG, Corrective RAG, + Adaptive RAG in LangGraph
